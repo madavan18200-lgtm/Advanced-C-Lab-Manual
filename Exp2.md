@@ -13,17 +13,20 @@ Algorithm:
  
 Program:
 
-//type your code here
+printf("Enter value of a: ");
+scanf("%d", &n.a);
 
+printf("Enter value of b: ");
+scanf("%d", &n.b);
 
+sum = add(n);
 
+printf("Sum = %d\n", sum.a);
+
+return 0;
 
 Output:
-
-//paste your output screenshots here
-
-
-
+Enter value of a: 10 Enter value of b: 20 Sum = 30
 
 
 Result:
